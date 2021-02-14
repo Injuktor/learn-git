@@ -1,0 +1,27 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosplay94/learn-git.git"
+  },
+  "keywords": [
+    "learn",
+    "svc",
+    "git"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosplay94/learn-git/issues"
+  },
+  "homepage": "https://github.com/cosplay94/learn-git#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
